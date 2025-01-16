@@ -19,7 +19,7 @@ I am a Software Engineer dedicated to crafting efficient, optimized, and profess
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#)[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/FaizanAhmed-dev/FaizanAhmed-dev/blob/master/resumes/resume.v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/faizan-ahmed-syed/faizan-ahmed-syed/blob/master/resumes/resume.v1.0.pdf)
 - :email: syedfaizan.dev@gmail.com
 - :contact: +92 3147053239
 
